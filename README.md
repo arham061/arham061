@@ -1,4 +1,5 @@
-# Hello there! <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/bca0cc45-da5c-4f6d-9da6-ae1884ead00f" />
+# Hello there! <img width="276" height="190" alt="image" src="https://github.com/user-attachments/assets/061c6095-a1e7-4c39-b62c-a0c92412f110" />
+
 
 
 I'm a master's student in **AI and Robotics** at the University of Technology Nuremberg. I enjoy building systems that connect machine learning with real-world problems, particularly in robotics and computer vision. I also have a background in intelligent automation.
