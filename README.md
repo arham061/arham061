@@ -15,7 +15,7 @@ I'm a master's student in **AI and Robotics** at the University of Technology Nu
 | --- | --- |
 | [Image Geolocation Challenge](https://github.com/arham061/image-geolocation-challenge) | Predicted photo locations with MobileViTV2, country classification, and geographic cells. Achieved **199 km median error** on the development validation split. [Try the demo](https://huggingface.co/spaces/arham061/Image-geolocation-challenge). |
 | [QuantSplat: 3D Reconstruction](https://github.com/arham061/3D-Reconstruction) | Team research project on low-bit VGGT and 3D Gaussian Splatting, including camera correction and reliability prediction. [Explore the demo](https://quantsplat.arham061.workers.dev/). |
-| [GIKI Chatbot](https://github.com/arham061/GIKI_Chatbot_Backend) | Retrieval-based chatbot backend using embeddings and FAISS, with a [separate frontend](https://github.com/arham061/GIKI_Chatbot_Frontend_updated). |
+| [Heart Sound Classification — Bachelor’s Thesis](https://github.com/arham061/rhd-heart-sound-classification) | I developed and fine-tuned a **DistilHuBERT** model to classify heart sounds, running iterative experiments over several months as part of our team’s RHD project. Includes the notebook, results, presentation figures, and demo. |
 
 **Tools I work with:** Python · PyTorch · MuJoCo · ROS 2 · FAISS · UiPath
 
